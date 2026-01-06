@@ -1,10 +1,17 @@
-# Movie Recommendation System
+## Installation
 
-A Flask-based web application that recommends movies based on user moods.
+```bash
+git clone https://github.com/Sanjay3110-dev/movie-recommendation-system.git
+cd movie-recommendation-system
+pip install -r requirements.txt
+python app.py
 
-## Features
-- Recommends movies based on moods: happy, sad, excited, romantic, scared.
-- Displays movie titles, genres, predicted ratings, and posters.
-- Simple and interactive web interface using Flask.
+#### ✅ Add: Tech Stack
+```md
+## Tech Stack
+- Python
+- Flask
+- Pandas
+- Scikit-learn
+- HTML / CSS
 
-## Project Structure
