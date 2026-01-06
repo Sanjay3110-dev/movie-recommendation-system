@@ -1,0 +1,21 @@
+movieId,title,genres
+1,The Shawshank Redemption,Drama
+2,The Godfather,Crime|Drama
+3,The Dark Knight,Action|Crime|Thriller
+4,Forrest Gump,Drama|Comedy|Romance
+5,Titanic,Romance|Drama
+6,Inception,Sci-Fi|Thriller
+7,Interstellar,Sci-Fi|Drama
+8,Avengers: Endgame,Action|Adventure
+9,The Conjuring,Horror|Thriller
+10,Toy Story,Animation|Comedy|Family
+11,Joker,Crime|Drama|Thriller
+12,The Notebook,Romance|Drama
+13,Gladiator,Action|Drama
+14,Up,Animation|Adventure|Family
+15,It,Horror|Thriller
+16,La La Land,Romance|Drama|Music
+17,John Wick,Action|Thriller
+18,Coco,Animation|Family|Fantasy
+19,A Quiet Place,Horror|Thriller
+20,The Matrix,Action|Sci-Fi

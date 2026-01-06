@@ -1,0 +1,24 @@
+# go_to_project.py
+import os
+import subprocess
+
+# Target folder
+target = r"C:\Users\ADMIN\Desktop\MajorProject"
+
+print(f"Current: {os.getcwd()}")
+print(f"Target: {target}")
+
+if os.getcwd() != target:
+    print(f"\nChanging to: {target}")
+    os.chdir(target)
+    print(f"Now in: {os.getcwd()}")
+    
+    # List files
+    print("\nFiles in folder:")
+    for f in os.listdir('.'):
+        print(f"  - {f}")
+    
+    print("\n✅ Ready! Run: python app.py")
+else:
+    print("\n✅ You're already in the right folder!")
+    print("Run: python app.py")
